@@ -5,3 +5,4 @@
 - [26-08-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Count%20Palindromic%20Subsequences)
 - [27-08-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Alternate%20positive%20and%20negative%20numbers)
 - [28-08-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Binary%20Tree%20to%20Doubly%20LinkedList)
+- [29-08-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Next%20Right%20Node)
