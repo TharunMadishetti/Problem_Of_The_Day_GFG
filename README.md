@@ -8,4 +8,4 @@
 - [29-08-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Next%20Right%20Node)
 - [30-08-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Merging%20Details)
 - [31-08-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Find%20all%20distinct%20subset%20(or%20subsequence)%20sums)
-- [01-08-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Find%20pairs%20with%20given%20sum%20in%20doubly%20linked%20list)
+- [01-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Find%20pairs%20with%20given%20sum%20in%20doubly%20linked%20list)
