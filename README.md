@@ -10,3 +10,4 @@
 - [31-08-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Find%20all%20distinct%20subset%20(or%20subsequence)%20sums)
 - [01-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Find%20pairs%20with%20given%20sum%20in%20doubly%20linked%20list)
 - [02-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Minimum%20Cost%20to%20cut%20a%20board%20into%20squares)
+- [04-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Pattern)
