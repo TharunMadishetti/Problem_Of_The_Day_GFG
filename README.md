@@ -11,3 +11,4 @@
 - [01-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Find%20pairs%20with%20given%20sum%20in%20doubly%20linked%20list)
 - [02-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Minimum%20Cost%20to%20cut%20a%20board%20into%20squares)
 - [04-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Pattern)
+- [05-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Smallest%20sum%20contiguous%20subarray)
