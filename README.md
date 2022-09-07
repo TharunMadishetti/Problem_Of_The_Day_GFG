@@ -13,3 +13,4 @@
 - [04-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Pattern)
 - [05-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Smallest%20sum%20contiguous%20subarray)
 - [06-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Minimum%20sum%20of%20absolute%20differences%20of%20pairs)
+- [07-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Stack%20Permutations)
