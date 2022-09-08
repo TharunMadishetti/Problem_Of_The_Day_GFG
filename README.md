@@ -14,3 +14,4 @@
 - [05-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Smallest%20sum%20contiguous%20subarray)
 - [06-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Minimum%20sum%20of%20absolute%20differences%20of%20pairs)
 - [07-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Stack%20Permutations)
+- [08-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Sum%20of%20k%20smallest%20elements%20in%20BST)
