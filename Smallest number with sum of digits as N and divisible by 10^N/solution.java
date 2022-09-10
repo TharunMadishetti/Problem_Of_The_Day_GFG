@@ -1,20 +1,17 @@
 public String digitsNum(int N)
     {
-        int t=N/9,temp=N;
+        int temp=N;
         String no="";
         // Code here
-        while(t!=0)
+        while(N/10!=0)
         {
-            no="9"+no;
-            temp-=9;
-            t--;
+            no="9"+no; //appending begin at nxt digits place
+            N-=9;
         }
-        if(temp>0)
-        no=temp+""+no;
+        if(N>0)
+        no=N+no;//if there exit single digit left out
+        for(int i=0;i<temp;i++)
+        no=no+"0";//appending 0 to generated num
         
-        StringBuilder s = new StringBuilder(no+"");
-        for(int i=0;i<N;i++)
-        s.append("0");
-        
-        return s.toString();
+        return no;
     }
