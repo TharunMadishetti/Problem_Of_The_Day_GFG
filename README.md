@@ -16,4 +16,6 @@
 - [07-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Stack%20Permutations)
 - [08-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Sum%20of%20k%20smallest%20elements%20in%20BST)
 - [09-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Smallest%20number%20with%20sum%20of%20digits%20as%20N%20and%20divisible%20by%2010%5EN)
-- [10-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Count%20occurrences%20of%20a%20given%20word%20in%20a%202-d%20array)
+- [11-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Count%20occurrences%20of%20a%20given%20word%20in%20a%202-d%20array)
+
+- [12-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Minimum%20Exchange)
