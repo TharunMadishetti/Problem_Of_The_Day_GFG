@@ -19,3 +19,5 @@
 - [11-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Count%20occurrences%20of%20a%20given%20word%20in%20a%202-d%20array)
 
 - [12-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Minimum%20Exchange)
+- [13-09-2022](https://practice.geeksforgeeks.org/problems/bst-to-max-heap/1)
+- [14-09-2022](https://github.com/TharunMadishetti/Problem_Of_The_Day_GFG/tree/main/Power%20of%202%20and%20Subsequences)
