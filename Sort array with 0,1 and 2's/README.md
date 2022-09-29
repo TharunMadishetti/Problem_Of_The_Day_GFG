@@ -1,4 +1,5 @@
 ### Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.
+####    you can generalise the approach for all the arrays which have fixed n values and form the sorted order by counting their respective frequencies  this is also called as counting sort
 
 
 #### Example 1:  
