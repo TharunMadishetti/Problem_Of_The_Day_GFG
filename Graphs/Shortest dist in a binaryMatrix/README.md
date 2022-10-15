@@ -1,5 +1,5 @@
 ### Shortest Distance in a Binary Maze
-#### [Problem link](Shortest Distance in a Binary Maze)
+#### [Problem link](https://practice.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1)
 
 #### Given a n * m matrix grid where each element can either be 0 or 1. You need to find the shortest distance between a given source cell to a destination cell. The path can only be created out of a cell if its value is 1. If the path is not possible between source cell and destination cell, then return -1.
   
