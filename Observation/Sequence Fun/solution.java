@@ -1,3 +1,4 @@
+//Problem link: https://practice.geeksforgeeks.org/problems/sequence-fun5018/1
 class Solution
 {
     public int NthTerm(int n)
