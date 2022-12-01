@@ -1,3 +1,4 @@
+//Problem link:https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1
 class Solution{
     
     // temp: input array
